@@ -36,10 +36,15 @@
         <br>
        <input type="password" name="clave" id="clave" >
         <br> 
+          <input type="password" name="clave" id="clave" >
+        <br> 
+       
        <input type="submit" id="btn_enviar" value="enviar">
        <input type="button" id="btn_resetear"  value="resetear" onclick="vaciar()" >
-
+        <input type="text" name="nombre" id="nombre" >
+      <br>
            
+           <input type="button" id="btn_resetear"  value="resetear" onclick="vaciar()" >
            
 
 
