@@ -10,6 +10,10 @@
 		<br>
        <input type="text" name="nombre" id="nombre" >
 	    <br>
+      <label> Ingrese copia </label>
+    <br>
+       <input type="text" name="nombre" id="nombre" >
+      <br>
         
        <label> Ingrese Apellido paterno </label>
        <br>
